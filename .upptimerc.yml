@@ -27,6 +27,12 @@ sites:
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
+  - name: MonthlySSH Website
+    url: https://www.monthlyssh.net
+    icon: https://monthlyssh.net/monthlyssh.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
