@@ -7,8 +7,8 @@ sites:
     url: https://turbossh.com
     icon: https://turbossh.com/logo.png
   - name: Jrtunnel Website
-    url: https://www.jrtunnel.com
-    icon: https://www.jrtunnel.com/logo.png
+    url: https://jrtunnel.com
+    icon: https://jrtunnel.com/logo.png
   - name: RocketSSH Website
     url: https://rocketssh.com
     icon: https://rocketssh.com/logo.png
@@ -21,8 +21,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.jrtunnel.com
   # baseUrl: /your-repo-name
-  favicon: https://www.jrtunnel.com/logo.png
-  logoUrl: https://www.jrtunnel.com/logo.png
+  favicon: https://jrtunnel.com/logo.png
+  logoUrl: https://jrtunnel.com/logo.png
   name: Jrtunnel - Server Status
   introTitle: "Welcome to our **Jrtunnel** server status page."
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
