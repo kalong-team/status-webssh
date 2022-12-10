@@ -33,14 +33,14 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.jrtunnel.com
   # baseUrl: /your-repo-name
-  favicon: https://jrtunnel.com/logo.png
-  logoUrl: https://jrtunnel.com/logo.png
-  name: Jrtunnel - Server Status
-  introTitle: "Welcome to our **Jrtunnel** server status page."
+  favicon: https://turbossh.com/favicon.png
+  logoUrl: https://turbossh.com/logo.png
+  name: TurboSSH - Server Status
+  introTitle: "Welcome to our **TurboSSH** server status page."
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
   navbar:
-    - title: Jrtunnel
-      href: https://www.jrtunnel.com
+    - title: TurboSSH
+      href: https://turbossh.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Telegram
@@ -50,7 +50,7 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 i18n:
-  footer: This page is [created]($REPO) @2022 by [Jrtunnel](www.jrtunnel.com), powered by [Upptime](https://upptime.js.org)
+  footer: This page is [created]($REPO) @2022 by [TurboSSH](turbossh.com), powered by [Upptime](https://upptime.js.org)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
