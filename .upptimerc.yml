@@ -6,15 +6,27 @@ sites:
   - name: TurboSSH Website
     url: https://turbossh.com
     icon: https://turbossh.com/logo.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
   - name: Jrtunnel Website
     url: https://jrtunnel.com
     icon: https://jrtunnel.com/logo.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
   - name: RocketSSH Website
     url: https://rocketssh.com
     icon: https://rocketssh.com/logo.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
   - name: BestSSH Website
     url: https://bestssh.net
     icon: https://bestssh.net/logo.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
