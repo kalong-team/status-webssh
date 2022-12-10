@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1428,
-    "timeDay": 1428,
-    "timeWeek": 1428,
-    "timeMonth": 1428,
-    "timeYear": 1428,
+    "time": 1440,
+    "timeDay": 1440,
+    "timeWeek": 1440,
+    "timeMonth": 1440,
+    "timeYear": 1440,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://jrtunnel.com/logo.png",
     "slug": "jrtunnel-website",
     "status": "down",
-    "uptime": "0.29%",
-    "uptimeDay": "0.29%",
-    "uptimeWeek": "0.29%",
-    "uptimeMonth": "0.29%",
-    "uptimeYear": "0.29%",
-    "time": 119,
-    "timeDay": 119,
-    "timeWeek": 119,
-    "timeMonth": 119,
-    "timeYear": 119,
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
+    "time": 107,
+    "timeDay": 107,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 107,
     "dailyMinutesDown": {
-      "2022-12-10": 6
+      "2022-12-10": 8
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1704,
-    "timeDay": 1704,
-    "timeWeek": 1704,
-    "timeMonth": 1704,
-    "timeYear": 1704,
+    "time": 1725,
+    "timeDay": 1725,
+    "timeWeek": 1725,
+    "timeMonth": 1725,
+    "timeYear": 1725,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1614,
-    "timeDay": 1614,
-    "timeWeek": 1614,
-    "timeMonth": 1614,
-    "timeYear": 1614,
+    "time": 1637,
+    "timeDay": 1637,
+    "timeWeek": 1637,
+    "timeMonth": 1637,
+    "timeYear": 1637,
     "dailyMinutesDown": {}
   }
 ]
