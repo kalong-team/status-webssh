@@ -21,6 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.jrtunnel.com
   # baseUrl: /your-repo-name
+  favicon: https://www.jrtunnel.com/logo.png
   logoUrl: https://www.jrtunnel.com/logo.png
   name: Jrtunnel - Server Status
   introTitle: "Welcome to our **Jrtunnel** server status page."
