@@ -34,7 +34,7 @@
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2022-12-15": 683,
+      "2022-12-15": 696,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
@@ -65,19 +65,19 @@
     "url": "https://bestssh.net",
     "icon": "https://bestssh.net/logo.png",
     "slug": "best-ssh-website",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2966,
-    "timeDay": 9617,
-    "timeWeek": 2966,
-    "timeMonth": 2966,
-    "timeYear": 2966,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 2869,
+    "timeDay": 6980,
+    "timeWeek": 2869,
+    "timeMonth": 2869,
+    "timeYear": 2869,
     "dailyMinutesDown": {
-      "2022-12-15": 0
+      "2022-12-15": 13
     }
   },
   {
