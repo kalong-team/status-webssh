@@ -1,7 +1,7 @@
 url: https://bestssh.net
-status: up
+status: degraded
 code: 200
-responseTime: 1662
-lastUpdated: 2022-12-14T23:28:14.491Z
+responseTime: 17571
+lastUpdated: 2022-12-15T11:23:04.592Z
 startTime: Sat Dec 10 2022 04:26:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
