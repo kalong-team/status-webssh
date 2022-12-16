@@ -4,18 +4,20 @@
     "url": "https://turbossh.com",
     "icon": "https://turbossh.com/logo.png",
     "slug": "turbo-ssh-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1433,
-    "timeDay": 1505,
-    "timeWeek": 1433,
-    "timeMonth": 1433,
-    "timeYear": 1433,
-    "dailyMinutesDown": {}
+    "time": 1398,
+    "timeDay": 1228,
+    "timeWeek": 1398,
+    "timeMonth": 1398,
+    "timeYear": 1398,
+    "dailyMinutesDown": {
+      "2022-12-16": 0
+    }
   },
   {
     "name": "Jrtunnel Website",
@@ -34,7 +36,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2022-12-16": 1003,
+      "2022-12-16": 1158,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
@@ -49,18 +51,18 @@
     "icon": "https://rocketssh.com/logo.png",
     "slug": "rocket-ssh-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.37%",
+    "uptimeDay": "89.24%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "98.37%",
     "time": 1652,
     "timeDay": 1478,
     "timeWeek": 1652,
     "timeMonth": 1652,
     "timeYear": 1652,
     "dailyMinutesDown": {
-      "2022-12-16": 0
+      "2022-12-16": 155
     }
   },
   {
